@@ -1,1 +1,2 @@
 # First-OpenGL-Game
+Hello everyone! This is my first real attempt at using OpenGL to create a video game! The game is loosely based off Tron and was submitted for my Computer Graphics graduate level course. The model for the Tron Bike was taken from ysup12 (https://free3d.com/3d-model/tron-lightcycle-86261.html)! The map was created by me in Blender. Some of the techniques used in this game include Ray Intersection Testing, Texturing, Multi-Lighting, and various others. I learned a lot about programming throughout the creation of this game! Download it and give it a try! 
